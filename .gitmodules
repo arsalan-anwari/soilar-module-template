@@ -1,12 +1,12 @@
 [submodule "drivers/rfm95w"]
 	path = drivers/rfm95w
-	url = https://BabyYod4@bitbucket.org/babyyod4/rfm95w.git
+	url = https://github.com/arsalan-anwari/rfm95w.git
 [submodule "drivers/ata8520e"]
 	path = drivers/ata8520e
-	url = https://bitbucket.org/babyyod4/ata8520e.git
+	url = https://github.com/arsalan-anwari/ata8520e.git
 [submodule "drivers/hc06"]
 	path = drivers/hc06
-	url = https://bitbucket.org/babyyod4/hc06.git
+	url = https://github.com/arsalan-anwari/hc06.git
 [submodule "drivers/dht"]
 	path = drivers/dht
-	url = https://bitbucket.org/babyyod4/dht.git
+	url = https://github.com/arsalan-anwari/dht.git
